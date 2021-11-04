@@ -33,7 +33,8 @@
     "build": "yarn build:esm && yarn build:cjs",
     "build:esm": "tsc",
     "build:cjs": "tsc --module commonjs --outDir lib/cjs",
-    "prepublish": "yarn build"
+    "prerelease": "yarn build",
+    "release": "changeset publish"
   },
   "peerDependencies": {
     "react": "^17.0.2",
