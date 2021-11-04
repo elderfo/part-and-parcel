@@ -1,5 +1,11 @@
 # @derfo/part-and-parcel
 
+## 0.0.2-next.2
+
+### Patch Changes
+
+- Bump version
+
 ## 0.0.2-next.1
 
 ### Patch Changes
