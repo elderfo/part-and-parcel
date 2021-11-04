@@ -1,6 +1,6 @@
 {
   "name": "@derfo/part-and-parcel",
-  "version": "0.0.2-next.0",
+  "version": "0.0.2-next.1",
   "author": "Chris Getsfred",
   "license": "MIT",
   "main": "./lib/cjs/index.js",

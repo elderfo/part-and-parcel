@@ -5,3 +5,4 @@ export { Portal } from './Portal';
 export { HorizontalStack, VerticalStack } from './Primitives';
 export { TextAreaField, TextField } from './TextField';
 export { humanFileSize, useClassName } from './utils';
+export { Theme } from './Theme';

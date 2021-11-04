@@ -4,5 +4,8 @@
   "initialVersions": {
     "@derfo/part-and-parcel": "0.0.1"
   },
-  "changesets": ["fuzzy-windows-melt"]
+  "changesets": [
+    "fuzzy-windows-melt",
+    "two-dots-arrive"
+  ]
 }

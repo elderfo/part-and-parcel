@@ -1,5 +1,11 @@
 # @derfo/part-and-parcel
 
+## 0.0.2-next.1
+
+### Patch Changes
+
+- Expose Theme component
+
 ## 0.0.2-next.0
 
 ### Patch Changes
