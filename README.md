@@ -1,11 +1,11 @@
-# @elderfo/part-and-parcel
+# @derfo/part-and-parcel
 
 Library of common components that.
 
 ## Setup
 
 ```bash
-yarn add @elderfo/part-and-parcel
+yarn add @derfo/part-and-parcel
 ```
 
 ## Components
