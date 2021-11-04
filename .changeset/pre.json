@@ -4,5 +4,7 @@
   "initialVersions": {
     "@elderfo/part-and-parcel": "0.0.1"
   },
-  "changesets": []
+  "changesets": [
+    "fuzzy-windows-melt"
+  ]
 }
