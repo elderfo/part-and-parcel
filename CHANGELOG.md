@@ -1,5 +1,11 @@
 # @derfo/part-and-parcel
 
+## 0.0.2-next.3
+
+### Patch Changes
+
+- f866d9b: Fix typo in foreground
+
 ## 0.0.2-next.2
 
 ### Patch Changes
