@@ -17,7 +17,7 @@ type ValidationTextFieldProps = {
 
 const LabelText = styled.span`
   flex: 1;
-  color: var(--surface-forground-medium);
+  color: var(--surface-foreground-medium);
   font-size: 0.75rem;
   font-weight: 600;
 `;

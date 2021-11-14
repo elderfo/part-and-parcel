@@ -31,12 +31,12 @@ export const Theme = () => {
           --secondary-font-family: 'Open Sans', sans-serif;
 
           --surface-background: rgba(255, 255, 255, 1);
-          --surface-forground: #212121ff;
-          --surface-forground-medium: #212121aa;
+          --surface-foreground: #212121ff;
+          --surface-foreground-medium: #212121aa;
           --surface-outline: var(--primary-outline);
 
           --well-background: #e4e6e7ff;
-          --well-forground: #595a5aff;
+          --well-foreground: #595a5aff;
           --well-outline: #e4e6e7ff;
 
           --error-background: #b00020;
@@ -142,7 +142,7 @@ export const Theme = () => {
         .surface {
           border-radius: 2px;
           background-color: var(--surface-background);
-          color: var(--surface-forground);
+          color: var(--surface-foreground);
         }
 
         *[class^='surface-level-'],
